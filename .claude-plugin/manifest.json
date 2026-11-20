@@ -1,0 +1,9 @@
+{
+  "name": "ancestors-skill",
+  "version": "0.1.0",
+  "description": "Two Claude skills that advise on decisions using long-tested practices from history: ancestors (/ancestors) and oracle (/oracle).",
+  "skills": [
+    "./ancestors",
+    "./oracle"
+  ]
+}
